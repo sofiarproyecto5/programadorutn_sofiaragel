@@ -1,0 +1,36 @@
+h1 {
+    color: red; /*color de tipografia*/
+    background-color: yellow; /*color de fondo*/
+    text-transform: uppercase; /*mayusculas*/
+    text-align: center; /*alineacion del texto*/
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif; /*tipo de letra*/
+    color: green; /*color de tipografia*/
+    font-size: 35px; /*tamaño de letra*/
+
+}
+
+p {
+    color: blue; /*color de tipografia*/
+
+}
+
+.destacado {
+    color: orange; /*color de tipografia*/
+    font-weight: bold; /*negrita*/
+    font-style: italic; /*cursiva*/
+}
+
+#caja {
+    background-color: lightpink; /*color de fondo*/
+    width: 300px; /*ancho*/
+    padding: 20px; /*espacio interno*/
+    border: 5px solid black; /*borde*/
+    box-sizing: border-box; /*incluye el padding y el borde en el tamaño total del elemento*/
+    margin-left: 100px; /*margen izquierdo*/
+    
+}
+
+cssgenerator.org
